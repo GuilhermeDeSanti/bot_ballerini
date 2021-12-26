@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Righteous&family=Sarala&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Righteous&family=Sarala&family=Waterfall&display=swap');
 
 * {
     margin: 0;
@@ -57,14 +57,14 @@ body {
 .conteudo-principal-escrito-titulo {
     font-family: 'Righteous', cursive;
     font-weight: 400;
-    font-size: 64px;
+    font-size: 66px;
     color: #FFF2E7;
 }
 
 .conteudo-principal-escrito-subtitulo {
-    font-family: 'Sarala', sans-serif;
+    font-family: 'Waterfall', cursive;
     font-weight: 400;
-    font-size: 24px;
+    font-size: 54px;
     color: #ECD6C4;
 }
 
